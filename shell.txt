@@ -1,0 +1,22 @@
+https://remote.oxfordma.us/
+chocolatey.jamf.com
+https://iste2021.jamf.com/
+https://reg-dev.jamf.com/
+educause2020.jamf.com
+educause2021.jamf.com
+https://daily-mdev.jstor.org/
+stag-archive.architecturaldigest.com 10000
+
+https://events.architecturaldigest.com/
+https://ushistory.teacherspayteachers.com/
+https://ushistory.teacherspayteachers.com/
+https://inspiration.teacherspayteachers.com/
+https://biology.teacherspayteachers.com/
+https://community.teacherspayteachers.com/ 50 https://bettermode.com/
+https://mklp.familysearch.org/
+https://schedule-preprod.zoominfo.com/
+https://api-prd.zoominfo.com/
+https://knowledgecenter.zoominfo.com/s/
+https://stage-2017.visitphilly.com/
+bitsavers1.computerhistory.org 10000000
+archive.hq.computerhistory.org
