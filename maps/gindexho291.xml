@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://trails.colorado.gov/@uefa-live?TOPNEWS</loc>
+        <lastmod>2024-04-10</lastmod> 
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://trails.colorado.gov/@uefa-livebrodcast?TOPNEWS</loc>
+        <lastmod>2024-04-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://trails.colorado.gov/@sopherain?TOPNEWS</loc>
+        <lastmod>2024-04-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://trails.colorado.gov/@sophitine?TOPNEWS</loc>
+        <lastmod>2024-04-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
